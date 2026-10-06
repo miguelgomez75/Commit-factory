@@ -5,8 +5,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
      fghijklmnñopqrstu           fghijklmnñopqrstu
       ghijklmnñopqrst             ghijklmnñopqrst
-       hijklmnñopqrs               
-        ijklmnñopqr
+       hijklmnñopqrs               hijklmnñopqrs
+        ijklmnñopqr                 ijklmnñopqr
          jklmnñopq
           klmnñop
            lmnño
