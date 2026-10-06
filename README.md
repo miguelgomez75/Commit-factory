@@ -4,8 +4,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
      fghijklmnñopqrstu           fghijklmnñopqrstu
-      ghijklmnñopqrst             
-       hijklmnñopqrs
+      ghijklmnñopqrst             ghijklmnñopqrst
+       hijklmnñopqrs               
         ijklmnñopqr
          jklmnñopq
           klmnñop
