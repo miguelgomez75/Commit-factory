@@ -8,10 +8,10 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
        hijklmnñopqrs               hijklmnñopqrs
         ijklmnñopqr                 ijklmnñopqr
          jklmnñopq                   jklmnñopq
-          klmnñop                     
-           lmnño
-            mnñ
-             n
+          klmnñop                     klmnñop
+           lmnño                       lmnño
+            mnñ                         mnñ
+             n                           
             mnñ
            lmnño
           klmnñop
