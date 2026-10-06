@@ -3,8 +3,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
   cdefghijklmnñopqrstuvwx     cdefghijklmnñopqrstuvwx
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
-     fghijklmnñopqrstu           
-      ghijklmnñopqrst
+     fghijklmnñopqrstu           fghijklmnñopqrstu
+      ghijklmnñopqrst             
        hijklmnñopqrs
         ijklmnñopqr
          jklmnñopq
