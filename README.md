@@ -2,8 +2,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
  bcdefghijklmnñopqrstuvwxy   bcdefghijklmnñopqrstuvwxy
   cdefghijklmnñopqrstuvwx     cdefghijklmnñopqrstuvwx
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
-    efghijklmnñopqrstuv         
-     fghijklmnñopqrstu
+    efghijklmnñopqrstuv         efghijklmnñopqrstuv
+     fghijklmnñopqrstu           
       ghijklmnñopqrst
        hijklmnñopqrs
         ijklmnñopqr
