@@ -30,7 +30,7 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
      fghijklmnñopqrstu           fghijklmnñopqrstu
-      ghijklmnñopqrst
+      ghijklmnñopqrst             ghijklmnñopqrst
        hijklmnñopqrs
         ijklmnñopqr
          jklmnñopq
