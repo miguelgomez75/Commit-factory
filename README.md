@@ -33,8 +33,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
       ghijklmnñopqrst             ghijklmnñopqrst
        hijklmnñopqrs               hijklmnñopqrs
         ijklmnñopqr                 ijklmnñopqr
-         jklmnñopq                   
-          klmnñop
+         jklmnñopq                   jklmnñopq
+          klmnñop                     
            lmnño
             mnñ
              n
