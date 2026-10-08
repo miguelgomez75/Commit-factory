@@ -20,9 +20,9 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
        hijklmnñopqrs               hijklmnñopqrs
       ghijklmnñopqrst             ghijklmnñopqrst
      fghijklmnñopqrstu           fghijklmnñopqrstu
-    efghijklmnñopqrstuv         
-   defghijklmnñopqrstuvw
-  cdefghijklmnñopqrstuvwx
+    efghijklmnñopqrstuv         efghijklmnñopqrstuv
+   defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
+  cdefghijklmnñopqrstuvwx     
  bcdefghijklmnñopqrstuvwxy
 abcdefghijklmnñopqrstuvwxyz
  bcdefghijklmnñopqrstuvwxy
