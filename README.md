@@ -22,8 +22,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
      fghijklmnñopqrstu           fghijklmnñopqrstu
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
-  cdefghijklmnñopqrstuvwx     
- bcdefghijklmnñopqrstuvwxy
+  cdefghijklmnñopqrstuvwx     cdefghijklmnñopqrstuvwx
+ bcdefghijklmnñopqrstuvwxy   
 abcdefghijklmnñopqrstuvwxyz
  bcdefghijklmnñopqrstuvwxy
   cdefghijklmnñopqrstuvwx
