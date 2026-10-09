@@ -46,8 +46,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
        hijklmnñopqrs               hijklmnñopqrs
       ghijklmnñopqrst             ghijklmnñopqrst
      fghijklmnñopqrstu           fghijklmnñopqrstu
-    efghijklmnñopqrstuv
-   defghijklmnñopqrstuvw
+    efghijklmnñopqrstuv         efghijklmnñopqrstuv
+   defghijklmnñopqrstuvw       
   cdefghijklmnñopqrstuvwx
  bcdefghijklmnñopqrstuvwxy
 abcdefghijklmnñopqrstuvwxyz
