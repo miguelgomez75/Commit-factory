@@ -11,7 +11,7 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
           klmnñop                     klmnñop
            lmnño                       lmnño
             mnñ                         mnñ
-             n                           n
+             n                           n                           n
             mnñ                         mnñ
            lmnño                       lmnño
           klmnñop                     klmnñop
