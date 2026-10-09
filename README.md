@@ -43,8 +43,8 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
           klmnñop                     klmnñop
          jklmnñopq                   jklmnñopq
         ijklmnñopqr                 ijklmnñopqr
-       hijklmnñopqrs
-      ghijklmnñopqrst
+       hijklmnñopqrs               hijklmnñopqrs
+      ghijklmnñopqrst             
      fghijklmnñopqrstu
     efghijklmnñopqrstuv
    defghijklmnñopqrstuvw
