@@ -49,5 +49,5 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz
     efghijklmnñopqrstuv         efghijklmnñopqrstuv
    defghijklmnñopqrstuvw       defghijklmnñopqrstuvw
   cdefghijklmnñopqrstuvwx     cdefghijklmnñopqrstuvwx
- bcdefghijklmnñopqrstuvwxy   
-abcdefghijklmnñopqrstuvwxyz
+ bcdefghijklmnñopqrstuvwxy   bcdefghijklmnñopqrstuvwxy
+abcdefghijklmnñopqrstuvwxyz 
