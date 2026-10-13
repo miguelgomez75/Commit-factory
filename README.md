@@ -13,7 +13,7 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrst
             mnñ                         mnñ                         mnñ
              n                           n                           n
             mnñ                         mnñ                         mnñ
-           lmnño                       lmnño
+           lmnño                       lmnño                       lmnño
           klmnñop                     klmnñop
          jklmnñopq                   jklmnñopq
         ijklmnñopqr                 ijklmnñopqr
