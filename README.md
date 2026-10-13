@@ -14,7 +14,7 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrst
              n                           n                           n
             mnñ                         mnñ                         mnñ
            lmnño                       lmnño                       lmnño
-          klmnñop                     klmnñop
+          klmnñop                     klmnñop                     klmnñop
          jklmnñopq                   jklmnñopq
         ijklmnñopqr                 ijklmnñopqr
        hijklmnñopqrs               hijklmnñopqrs
