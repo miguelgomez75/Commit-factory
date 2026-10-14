@@ -37,7 +37,7 @@ abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrstuvwxyz abcdefghijklmnñopqrst
           klmnñop                     klmnñop                     klmnñop
            lmnño                       lmnño                       lmnño
             mnñ                         mnñ                         mnñ
-             n                           n
+             n                           n                           n
             mnñ                         mnñ
            lmnño                       lmnño
           klmnñop                     klmnñop
